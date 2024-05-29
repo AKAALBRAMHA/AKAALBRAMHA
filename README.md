@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [NA](NA)
 
-- ⚡ Fun fact **I will tell you...**
+- ⚡ Fun fact I will tell you...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
