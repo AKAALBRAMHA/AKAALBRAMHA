@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [NA](NA)
 
-- 💬 Ask me about **Smart Contract Development**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **milindpatel247@gmail.com**
 
 - 📄 Know about my experiences [NA](NA)
 
-- ⚡ Fun fact **I think I'm funny...**
+- ⚡ Fun fact **I will tell you...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
