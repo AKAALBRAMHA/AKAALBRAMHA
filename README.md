@@ -1,29 +1,36 @@
-<h1 align="center">Hi 👋, I'm Milind Patel</h1>
-<h3 align="center">A Mechanical Engineer passionate about Data Science from India</h3>
+<h1 align="center">Hello World 👋, I'm Milind Patel</h1>
+<h3 align="center">Mechanical Engineer And Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akaalbramha&label=Profile%20views&color=0e75b6&style=flat" alt="akaalbramha" /> </p>
+![profile count](https://komarev.com/ghpvc/?username=AKAALBRAMHA&color=blue)&nbsp;
+[![GitHub MILIND PATEL](https://img.shields.io/github/followers/AKAALBRAMHA?label=follow&style=social)](https://github.com/AKAALBRAMHA)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-- 👨‍💻 All of my projects are available at [NA](NA)
+### 👨🏻‍💻 &nbsp;All About Me
 
-- 💬 Ask me about anything
+💡 &nbsp;I'm a mechanical engineer and passionate about Data Science.\
+🎓&nbsp;	I graduated from Modern Education Society's College of Engineering, Pune with in Mechanical Engineering in the year of 2023.\
+🔍 &nbsp;Currently, I'm deepening my knowledge in Data Science, Data Analytics, and Blockchain.\
+♟️ &nbsp;In my free time, I enjoy playing chess.\
+💬 &nbsp;Feel free to reach out for general consulting or discussions on these topics!\
+✉️ &nbsp;You can email me at milindpatel247@gmail.com. I'll try to respond as soon as possible!\
 
-- 📫 How to reach me **milindpatel247@gmail.com**
 
-- 📄 Know about my experiences [NA](NA)
+### 🛠 &nbsp;Tech I Know
 
-- ⚡ Fun fact I will tell you...
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xmilindpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xmilindpatel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/milind-patel-417976202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/milind-patel-417976202" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📫 &nbsp; How To Reach...
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaalbramha&show_icons=true&locale=en&layout=compact" alt="akaalbramha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akaalbramha&show_icons=true&locale=en" alt="akaalbramha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akaalbramha&" alt="akaalbramha" /></p>
+<a href="https://www.linkedin.com/in/milind-patel-417976202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:milindpatel247@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://twitter.com/0xmilindpatel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> &nbsp;
+<a href="https://github.com/AKAALBRAMHA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp;
+<a href="https://stackoverflow.com/users/25451477/milind-patel"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> &nbsp;
