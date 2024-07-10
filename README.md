@@ -5,7 +5,7 @@
 [![GitHub MILIND PATEL](https://img.shields.io/github/followers/AKAALBRAMHA?label=follow&style=social)](https://github.com/AKAALBRAMHA)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 👨🏻‍💻 &nbsp;All About Me
+### 👨🏻‍💻 &nbsp;  All About Me
 
 💡 &nbsp;I'm a mechanical engineer and aspiring about Data Analyst.\
 🎓&nbsp;I did my graduation from Modern Education Society's College of Engineering, Pune in Mechanical Engineering in the year of 2023 with 8+ CGPA.\
@@ -15,7 +15,7 @@
 ✉️ &nbsp;You can email me at milindpatel247@gmail.com. I'll try to respond as soon as possible!
 
 
-### 🛠 &nbsp; Ask Me About
+### 🛠 &nbsp;  Ask Me About
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -39,7 +39,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 
-### 📫 &nbsp; Feel Free To Reach Me
+### 📫 &nbsp; Please, Do Check
 
 <a href="mailto:milindpatel247@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/milind-patel-417976202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
