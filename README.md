@@ -5,7 +5,7 @@
 [![GitHub MILIND PATEL](https://img.shields.io/github/followers/AKAALBRAMHA?label=follow&style=social)](https://github.com/AKAALBRAMHA)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 👨🏻‍💻 &nbsp;  All About Me
+### 👨🏻‍💻 &nbsp;  About Me
 
 💡 &nbsp;I'm a mechanical engineer and aspiring about Data Analyst.\
 🎓&nbsp;I did my graduation from Modern Education Society's College of Engineering, Pune in Mechanical Engineering in the year of 2023 with 8+ CGPA.\
