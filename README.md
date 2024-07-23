@@ -1,5 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Milind Patel</h1>
 <h3 align="center">Mechanical Engineer And Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2024/01/data-analyst-article.png" />
+</p>
+
 
 ![profile count](https://komarev.com/ghpvc/?username=AKAALBRAMHA&color=blue)&nbsp;
 [![GitHub MILIND PATEL](https://img.shields.io/github/followers/AKAALBRAMHA?label=follow&style=social)](https://github.com/AKAALBRAMHA)&nbsp;
@@ -7,12 +11,15 @@
 
 ### 👨🏻‍💻 &nbsp;  About Me
 
-💡 &nbsp;I'm a mechanical engineer and aspiring Data Analyst.\
-🎓&nbsp;I did my graduation from Modern Education Society's College of Engineering, Pune in Mechanical Engineering in the year of 2023 with 8+ CGPA.\
-🔍 &nbsp;Currently, I'm deepening my knowledge in Data Science, Data Analytics and ML.\
-♟️ &nbsp;In my free time, you can find me playing chess.\
-💬 &nbsp;Feel free to reach out for general consulting or discussions on these topics!\
-✉️ &nbsp;You can email me at milindpatel247@gmail.com. I'll try to respond as soon as possible!
+<p style="font-size:24px; text-align:center;">
+    💡 &nbsp;With a passion for mechanical engineering and a keen eye on the data-driven future, I'm Milind Patel, an aspiring Data Analyst.
+    🎓&nbsp;Proudly graduated from Modern Education Society's College of Engineering, Pune, with a Mechanical Engineering degree in 2023, securing an impressive 8+ CGPA. <br>
+    🔍 &nbsp;Currently, I'm diving deep into the realms of Data Science, Data Analytics, and Machine Learning, constantly expanding my knowledge and skills. <br>
+    ♟️ &nbsp;When I'm not crunching numbers, you can find me strategizing over a game of chess, always looking for that winning move. <br>
+    💬 &nbsp;Let's connect for engaging discussions or insightful consultations on these exciting topics! <br>
+    ✉️ &nbsp;Reach out to me at <a href="mailto:milindpatel247@gmail.com">milindpatel247@gmail.com</a>. I'll be sure to get back to you at the earliest!
+</p>
+
 
 
 ### 🛠 &nbsp;  Ask Me About
