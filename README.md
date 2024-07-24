@@ -22,7 +22,7 @@
 
 
 
-### 🛠 &nbsp;  Ask Me About
+### 🛠 &nbsp;  Tools, languages and many more...
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -46,13 +46,16 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 
-### 📫 &nbsp; Please, Do Check
+### 📫 &nbsp; Follow me...
 
+<a href="https://github.com/AKAALBRAMHA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp;
 <a href="mailto:milindpatel247@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/milind-patel-417976202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/0xmilindpatel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> &nbsp;
-<a href="https://github.com/AKAALBRAMHA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp;
+
 <a href="https://stackoverflow.com/users/25451477/milind-patel"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> &nbsp;
 <a href="https://public.tableau.com/app/profile/milind.patel"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/></a> &nbsp;
+<a href="https://www.kaggle.com/bmpatel"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/></a> &nbsp;
 <a href="https://www.chess.com/member/akaalbramha"><img src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white"/></a> &nbsp;
+
 
