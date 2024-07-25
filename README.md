@@ -9,7 +9,7 @@
 [![GitHub MILIND PATEL](https://img.shields.io/github/followers/AKAALBRAMHA?label=follow&style=social)](https://github.com/AKAALBRAMHA)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 👨🏻‍💻 &nbsp;  About Me
+## 👨🏻‍💻 &nbsp;  About Me
 
 <p style="font-size:24px; text-align:center;">
     💡 &nbsp;With a passion for mechanical engineering and a keen eye on the data-driven future, I'm Milind Patel, an aspiring Data Analyst.
@@ -22,7 +22,7 @@
 
 
 
-### 🛠 &nbsp;  Tools, languages and many more...
+## 🛠 &nbsp;  Tools, languages and many more...
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -46,7 +46,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 
-### 📫 &nbsp; Follow me...
+## 📫 &nbsp; Where To Find Me...
 
 <a href="https://github.com/AKAALBRAMHA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp;
 <a href="mailto:milindpatel247@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
